@@ -1,11 +1,12 @@
-body{background: white;
-}
 
-  
 .card-title{color: teal;
 }
 
 .card{border: none; width: 500px;}
 
+
+body{
+    background: #BDBDBD;
+}
 
 
