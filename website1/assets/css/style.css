@@ -1,3 +1,45 @@
+.card-title{color: teal;
+}
+
+.card{border: none; width: 500px;}
+
+
 body{
     background: #BDBDBD;
+}
+
+
+
+.content {
+   font-size: 20px
+}
+
+.container-contact {
+    background:WHITE;
+    padding-bottom: 70px;
+    font-size: larger;
+    
+}
+
+
+.form {
+    
+    padding-top: 10px;
+    padding-right: 10px;
+    margin: auto;
+    width: 70%;
+}
+
+.form-group {
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.col-sm-2.col-form-label {
+    text-align: right;
+    
+}
+
+#inputPassword3 {
+    height: 120px;
 }
