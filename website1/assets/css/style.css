@@ -1,13 +1,15 @@
+
 .card-title{color: teal;
 }
 
 .card{border: none; width: 500px;}
 
+.card-portfolio{border: none; width: 500px;}
+
 
 body{
     background: #BDBDBD;
 }
-
 
 
 .content {
@@ -43,3 +45,4 @@ body{
 #inputPassword3 {
     height: 120px;
 }
+
