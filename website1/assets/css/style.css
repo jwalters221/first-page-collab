@@ -3,8 +3,9 @@
 }
 
 
-.card-portfolio{border: none; width: 500px;}
-
+.card-portfolio{
+    border: none; 
+}
 
 body{
     background: #ffffff;
